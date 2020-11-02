@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>This website is still in the works!</h1>
+    <h1>This webpage isn't done yet!</h1>
   </body>
 </html>
